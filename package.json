@@ -1,0 +1,13 @@
+{
+    "name": "docker-js",
+    "version": "0.0.1",
+    "description": "Node.js wrapper for Docker",
+    "preferGlobal": "false",
+    "main": "index.js",
+    "author": "Damien Goujard",
+    "keywords": "docker",
+    "dependencies": {
+        "request": "2.21.0"
+    },
+    "engines": { "node": "*" }
+}
